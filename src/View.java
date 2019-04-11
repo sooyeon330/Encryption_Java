@@ -85,7 +85,7 @@ public class View {
 						decryption="";
 						ened_text.setText(" ");
 						den_text.setText(" ");
-						
+						tmparr.clear();
 						String blankCheck = "";
 						int blankCheckCount = 0;
 						keytext = key_text.getText(); //가상의 키
